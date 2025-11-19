@@ -1,0 +1,5 @@
+{
+  "name": "ExamRepo AI",
+  "description": "Intelligent Repeated Question Analyzer for exam preparation. Upload papers (PDF/Image) to extract, group, and solve repeated questions automatically.",
+  "requestFramePermissions": []
+}
